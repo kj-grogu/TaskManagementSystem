@@ -1,0 +1,66 @@
+.dashboard-container {
+  display: flex;
+  flex-direction: column;
+  max-height: 100vh;
+  width: 100%;
+  overflow-y: auto;
+}
+
+
+.app-bar {
+flex: 0 0 auto;
+}
+
+.menu-button {
+margin-right: 16px;
+}
+
+.search-bar {
+display: flex;
+align-items: center;
+}
+
+.dropdown-control {
+  display: flex;
+  align-items: center;
+}
+
+.task-list-container {
+  background-color: #f0f8ff;
+  padding: 50px;
+  font-size: 18px;
+  margin-top: auto;
+  margin-bottom: auto;
+}
+
+.task-list-table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.task-list-table th,
+.task-list-table td {
+  padding: 10px;
+  color: #333;
+}
+
+.task-list-table th {
+  background-color: #4dabfd;
+  font-weight: bold;
+}
+
+.task-list-table td {
+  background-color: #4dabfd7a;
+}
+
+.task-list-table tr:nth-child(even) td {
+  background-color: #4dabfd13;;
+}
+
+.task-list-table tr:hover td {
+  background-color: #eff4f9;;
+}
+
+.word-wrap {
+  word-wrap: break-word;
+}
