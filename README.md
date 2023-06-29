@@ -9,6 +9,8 @@
 - Lombok
 - ReactJs
 - TypeScript
+- MaterialUI
+- Bootstrap
 
 ### Steps to Run
 
