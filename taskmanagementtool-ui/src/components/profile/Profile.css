@@ -1,0 +1,64 @@
+.dashboard-container {
+    display: flex;
+    flex-direction: column;
+    max-height: 100vh;
+    width: 100%;
+    overflow-y: auto;
+  }
+  
+  
+  .app-bar {
+	flex: 0 0 auto;
+  }
+  
+  .menu-button {
+	margin-right: 16px;
+  }
+  
+  .search-bar {
+	display: flex;
+	align-items: center;
+  }
+
+  .dropdown-control {
+    display: flex;
+    align-items: center;
+  }
+
+  .profile-container {
+    background-color: #ffffff;
+    color: #333333;
+    padding: 1rem;
+  }
+  
+  .form-input {
+    margin-bottom: 1rem;
+  }
+  
+  .form-input label {
+    color: #333333;
+  }
+  
+  .form-input input {
+    color: #333333;
+    background-color: #f5f5f5;
+  }
+  .form-input label {
+    color: #666666;
+  }
+  .form-container {
+    width: 60%;
+    margin: 0 auto;
+    padding: 100px;
+    color: #333333;
+  }
+  
+  .roles-list {
+    background-color: #f5f5f5;
+    padding: 10px;
+    border-radius: 4px;
+  }
+  
+  .roles-list-item {
+    color: #000;
+  }

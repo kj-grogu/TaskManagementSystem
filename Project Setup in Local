@@ -1,0 +1,23 @@
+Create env file for adding db properties
+1. Go to resources folder under main
+2. Create a new file with name ".env"
+3. Add the following attributes:
+    MONGO_DATABASE="taskmanagementdb"
+    MONGO_USER="<your_username>"   
+    MONGO_PASSWORD="<your_password>"
+    MONGO_CLUSTER="cluster1.ykcfdcd.mongodb.net"
+    MONGO_URI="mongodb+srv://<username>:<password>@cluster1.ykcfdcd.mongodb.net"
+
+
+
+Checkout to main branch, then do fetch and pull
+Create a new branch from main branch
+
+
+Then go to .gitignore file and add the following
+### ENV File ###
+.env
+
+
+
+http://localhost:8080/api/v1/users
