@@ -1,0 +1,16 @@
+
+npx create-react-app task-management-tool-ux --template typescript
+npm start
+
+
+node modules 
+
+npm install react-bootstrap
+npm install jquery popper.js
+npm install react-router-dom
+to install axios:
+
+
+https://github.com/remix-run/react-router/blob/main/docs/upgrading/v5.md#upgrade-to-react-router-v6
+
+https://www.google.com/search?q=react+router+v6+navigate+to+home+if+not+authorized&newwindow=1&rlz=1C1CHZN_enUS1041US1041&sxsrf=APwXEddJc-qHlu1HhbU4QNsuCfWkW_TOQQ%3A1684018718251&ei=HhZgZK33DpnSkPIPjLeomA4&oq=react+routerv6+navigate+to+home+if+not+auth&gs_lcp=Cgxnd3Mtd2l6LXNlcnAQAxgAMgcIIRCgARAKMgcIIRCgARAKOgcIIxCKBRAnOgQIIxAnOggIABCKBRCRAjoLCC4QgAQQsQMQgwE6CAgAEIAEELEDOhEILhCABBCxAxCDARDHARDRAzoLCC4QigUQsQMQgwE6FAguEIAEELEDEIMBEMcBENEDENQCOgcIABCKBRBDOgoIABCKBRCxAxBDOgcIABCABBAKOgcIABANEIAEOgYIABAWEB46BggAEB4QDToICAAQigUQhgM6BwghEKsCEAo6CgghEBYQHhAdEApKBAhBGABQAFjYVGC-XmgAcAF4AIABrgKIAZg4kgEIMC4zOC40LjGYAQCgAQHAAQE&sclient=gws-wiz-serp

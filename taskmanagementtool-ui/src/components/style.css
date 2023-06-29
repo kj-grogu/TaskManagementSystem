@@ -1,0 +1,36 @@
+.dashboard-container {
+    background-image: url("../dashboard.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+   
+  }
+
+.tableContainer {
+    boxShadow: '0 2px 4px rgba(0, 0, 0, 0.2)';
+    maxWidth: 500;
+    margin: '0 auto';
+  }
+
+.custom-content-container {
+    maxWidth: 500;
+    margin: '0 auto';
+}
+.label-black {
+  color: black;
+  font-size: 0.9rem;
+  text-align: right;
+}
+
+.border-black {
+  border-color: black;
+  text-align: left;
+}
+
+.homepage{
+  color: black;
+  text-align: left;
+}
+.smaller-container {
+  width: 80%;
+  margin: 0 auto;
+}
